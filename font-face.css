@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'run_wildregular';
+    src: url('font/run_wild-webfont.woff2') format('woff2'),
+         url('font/run_wild-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lemon_tuesdayregular';
+    src: url('font/lemon_tuesday-webfont.woff2') format('woff2'),
+         url('font/lemon_tuesday-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

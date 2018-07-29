@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tara-home-01" transform="translate(-1196.000000, -86.000000)">
+            <g id="Group-3" transform="translate(1135.000000, 86.000000)">
+                <g id="icon-facebook" transform="translate(61.000000, 0.000000)">
+                    <g id="Group-10">
+                        <g id="Group-3">
+                            <path d="M0,24 C0,10.7448 10.6068397,0 23.6900826,0 C36.7733256,0 47.3801653,10.7448 47.3801653,24 C47.3801653,37.2544 36.7733256,48 23.6900826,48 C10.6068397,48 0,37.2544 0,24 Z" id="Shape" fill="#3B5998"></path>
+                            <path d="M19.7335141,37.3333333 L24.9862074,37.3333333 L24.9862074,23.998366 L28.4903395,23.998366 L28.9545455,19.4035948 L24.9862074,19.4035948 L24.9916595,17.1029412 C24.9916595,15.9052288 25.1007011,15.2622549 26.7394417,15.2622549 L28.9296216,15.2622549 L28.9296216,10.6666667 L25.4247107,10.6666667 C21.2149232,10.6666667 19.7335141,12.8962418 19.7335141,16.6446078 L19.7335141,19.4035948 L17.1095041,19.4035948 L17.1095041,23.999183 L19.7335141,23.999183 L19.7335141,37.3333333 L19.7335141,37.3333333 Z" id="Path" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
